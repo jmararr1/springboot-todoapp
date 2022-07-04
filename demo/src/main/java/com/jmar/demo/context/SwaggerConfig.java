@@ -13,8 +13,7 @@ import springfox.documentation.swagger2.annotations.EnableSwagger2;
 import java.util.Collections;
 
 // @config especifica la capacidad de crear beans, con @swagger2 habilitamos swagger
-@Configuration
-@EnableSwagger2
+
 public class SwaggerConfig {
     @Bean
     public Docket api() {
