@@ -7,8 +7,6 @@ It is focused on recreating a To-Do app, using Swagger for the UI and H2 for dat
 
 Here are some screenshots of the final result: 
 
-![Swagger-interface](images/Swagger-inicio.png)
-
 ![Post-method](images/uso-método-post.png)
 
 ![Get-method](images/metodo-get.png)
