@@ -41,3 +41,12 @@ TROUBLESHOOTING
 You should have no problems running the app, provided you followed the previously mentioned steps. 
 
 If you are facing some issues, visit Spring's help page.
+
+CREDITS
+---------------
+
+Project performed thanks to the following explanation:
+
+https://youtu.be/z_dLYcQqSHI
+
+I encourage everyone interested in microservices development to take a look at his content.
